@@ -14,7 +14,7 @@
 \usepackage{multirow}
 \usepackage{subcaption}
 
-\title{Knowledge Packs: Zero-Token Knowledge Delivery\\via KV Cache Injection\thanks{Code available at \url{https://github.com/cnails/kv-knowledge-packs}}}
+\title{Knowledge Packs: Zero-Token Knowledge Delivery\\via KV Cache Injection}
 
 \author{
   Andrey Pustovit\\
@@ -25,11 +25,12 @@
 \begin{document}
 
 \maketitle
+\footnotetext{Code available at \url{https://github.com/cnails/kv-knowledge-packs}}
 
 \begin{abstract}
 RAG wastes tokens. We propose \textbf{Knowledge Packs}: pre-computed KV caches that deliver the same knowledge at zero token cost. For causal transformers, the KV cache from a forward pass on text $F$ is identical to what a joint pass on $F \circ q$ would produce---this follows directly from the causal mask. The equivalence is exact but fragile: wrong chat template formatting causes 6--7pp degradation, which we believe explains prior claims of KV outperforming RAG. With correct formatting: zero divergences across 700 questions on Qwen3-8B and Llama-3.1-8B, up to 95\% token savings.
 
-The KV interface also enables behavioral steering that RAG cannot do. Because RoPE rotates keys but leaves values untouched, contrastive deltas on cached values can nudge model behavior while key arithmetic destroys coherence. The effect sits in mid-layer values (33--66\%), independent directions are nearly orthogonal ($\cos{\approx}0$) and compose, and both channels---knowledge and steering---run simultaneously at $\alpha{\leq}0.7$ without interference. No training, no weight modification.
+The KV interface also enables behavioral steering that RAG cannot do. Because RoPE rotates keys but leaves values untouched, contrastive deltas on cached values can nudge model behavior while key arithmetic destroys coherence. The effect sits in mid-layer values (33--66\%), independent directions are nearly orthogonal ($\cos \approx 0$) and compose, and both channels---knowledge and steering---run simultaneously at $\alpha{\leq}0.7$ without interference. No training, no weight modification.
 \end{abstract}
 
 % ============================================================
@@ -472,9 +473,9 @@ This connects to a broader point about prior work claiming KV $>$ RAG. We found 
 
 Pre-computed KV caches are a lossless, zero-token replacement for RAG prompt insertion. Zero divergences on 700 questions, two models, up to 95\% token savings at 5 retrieval steps. The main practical requirement is correct chat template formatting.
 
-Separately, the RoPE K/V asymmetry opens up value-space steering: contrastive V-deltas applied to mid layers can nudge model behavior without re-running inference, and independent directions compose. Both channels---knowledge and steering---run simultaneously at $\alpha{\leq}0.5$ without degrading either.
+Separately, the RoPE K/V asymmetry opens up value-space steering: contrastive V-deltas applied to mid layers can nudge model behavior without re-running inference, and independent directions compose. Both channels---knowledge and steering---run simultaneously at $\alpha{\leq}0.7$ without degrading either.
 
-\paragraph{Limitations.} The most obvious limitation is that KV caches do not transfer across models. Value steering, while consistent, only reaches about half the effect of text-in-prompt (1.93--2.47 vs.\ 3.67--3.80 on our coding tasks). We also have limited scale: 15 coding tasks for steering, 50 questions for dual-channel, and steering was only tested on coding style---we do not know if it transfers to, say, tone or factuality. The routing evaluation used synthetic facts that are easy to distinguish; real knowledge bases would be harder. Finally, $\alpha$ must be reduced in dual-channel mode compared to steering-only, which tells us the two subspaces are not fully orthogonal despite what the cosine similarities suggest.
+\paragraph{Limitations.} The most obvious limitation is that KV caches do not transfer across models. Value steering, while consistent, only reaches about half the effect of text-in-prompt (1.93--2.47 vs.\ 3.67--3.80 on our coding tasks). We also have limited scale: 15 coding tasks for steering, 200 questions for dual-channel, and steering was only tested on coding style---we do not know if it transfers to, say, tone or factuality. The routing evaluation used synthetic facts that are easy to distinguish; real knowledge bases would be harder. Finally, $\alpha$ must be reduced in dual-channel mode compared to steering-only, which tells us the two subspaces are not fully orthogonal despite what the cosine similarities suggest.
 
 % ============================================================
 % References
