@@ -1,0 +1,72 @@
+Loading meta-llama/Llama-3.1-70B-Instruct...
+Loading weights:   0%|          | 0/723 [00:00<?, ?it/s]Loading weights:   0%|          | 2/723 [00:00<01:12, 10.01it/s]Loading weights:   2%|▏         | 13/723 [00:00<00:14, 48.47it/s]Loading weights:   3%|▎         | 23/723 [00:00<00:10, 65.64it/s]Loading weights:   5%|▍         | 36/723 [00:00<00:08, 85.63it/s]Loading weights:   7%|▋         | 49/723 [00:00<00:07, 92.61it/s]Loading weights:   8%|▊         | 59/723 [00:00<00:07, 89.50it/s]Loading weights:  10%|▉         | 69/723 [00:00<00:07, 87.48it/s]Loading weights:  11%|█         | 81/723 [00:00<00:06, 96.10it/s]Loading weights:  13%|█▎        | 91/723 [00:01<00:06, 96.70it/s]Loading weights:  14%|█▍        | 103/723 [00:01<00:06, 97.76it/s]Loading weights:  16%|█▌        | 113/723 [00:01<00:06, 94.26it/s]Loading weights:  17%|█▋        | 123/723 [00:01<00:06, 94.34it/s]Loading weights:  19%|█▉        | 139/723 [00:01<00:05, 107.68it/s]Loading weights:  21%|██        | 150/723 [00:01<00:05, 97.78it/s] Loading weights:  22%|██▏       | 162/723 [00:01<00:05, 102.70it/s]Loading weights:  24%|██▍       | 173/723 [00:01<00:05, 103.91it/s]Loading weights:  25%|██▌       | 184/723 [00:02<00:05, 100.02it/s]Loading weights:  27%|██▋       | 195/723 [00:02<00:05, 94.22it/s] Loading weights:  29%|██▉       | 211/723 [00:02<00:04, 107.55it/s]Loading weights:  31%|███       | 222/723 [00:02<00:05, 99.10it/s] Loading weights:  32%|███▏      | 234/723 [00:02<00:04, 103.52it/s]Loading weights:  34%|███▍      | 245/723 [00:02<00:04, 104.28it/s]Loading weights:  35%|███▌      | 256/723 [00:02<00:04, 100.30it/s]Loading weights:  37%|███▋      | 267/723 [00:02<00:04, 91.26it/s] Loading weights:  39%|███▊      | 279/723 [00:02<00:04, 98.09it/s]Loading weights:  40%|████      | 290/723 [00:03<00:04, 100.39it/s]Loading weights:  42%|████▏     | 301/723 [00:03<00:04, 102.56it/s]Loading weights:  43%|████▎     | 312/723 [00:03<00:04, 99.24it/s] Loading weights:  45%|████▍     | 325/723 [00:03<00:03, 105.95it/s]Loading weights:  47%|████▋     | 337/723 [00:03<00:03, 103.48it/s]Loading weights:  48%|████▊     | 348/723 [00:03<00:04, 92.36it/s] Loading weights:  50%|████▉     | 360/723 [00:03<00:03, 98.61it/s]Loading weights:  51%|█████▏    | 371/723 [00:03<00:03, 100.83it/s]Loading weights:  53%|█████▎    | 382/723 [00:04<00:03, 97.58it/s] Loading weights:  54%|█████▍    | 392/723 [00:04<00:03, 92.98it/s]Loading weights:  56%|█████▌    | 402/723 [00:04<00:03, 89.74it/s]Loading weights:  57%|█████▋    | 414/723 [00:04<00:03, 96.87it/s]Loading weights:  59%|█████▊    | 424/723 [00:04<00:03, 96.93it/s]Loading weights:  60%|██████    | 436/723 [00:04<00:02, 97.55it/s]Loading weights:  62%|██████▏   | 446/723 [00:04<00:02, 93.10it/s]Loading weights:  63%|██████▎   | 456/723 [00:04<00:02, 90.13it/s]Loading weights:  65%|██████▍   | 468/723 [00:04<00:02, 97.58it/s]Loading weights:  67%|██████▋   | 481/723 [00:05<00:02, 104.64it/s]Loading weights:  68%|██████▊   | 492/723 [00:05<00:02, 99.25it/s] Loading weights:  70%|██████▉   | 505/723 [00:05<00:02, 105.48it/s]Loading weights:  72%|███████▏  | 517/723 [00:05<00:01, 105.02it/s]Loading weights:  73%|███████▎  | 528/723 [00:05<00:01, 98.92it/s] Loading weights:  75%|███████▌  | 544/723 [00:05<00:01, 110.47it/s]Loading weights:  77%|███████▋  | 556/723 [00:05<00:01, 101.32it/s]Loading weights:  78%|███████▊  | 567/723 [00:05<00:01, 103.10it/s]Loading weights:  80%|███████▉  | 578/723 [00:05<00:01, 104.53it/s]Loading weights:  81%|████████▏ | 589/723 [00:06<00:01, 100.96it/s]Loading weights:  83%|████████▎ | 600/723 [00:06<00:01, 91.81it/s] Loading weights:  85%|████████▍ | 612/723 [00:06<00:01, 98.19it/s]Loading weights:  86%|████████▋ | 625/723 [00:06<00:00, 101.26it/s]Loading weights:  88%|████████▊ | 636/723 [00:06<00:00, 98.26it/s] Loading weights:  90%|█████████ | 652/723 [00:06<00:00, 107.36it/s]Loading weights:  92%|█████████▏| 663/723 [00:06<00:00, 96.46it/s] Loading weights:  93%|█████████▎| 675/723 [00:06<00:00, 101.71it/s]Loading weights:  95%|█████████▍| 686/723 [00:07<00:00, 103.03it/s]Loading weights:  96%|█████████▋| 697/723 [00:07<00:00, 100.98it/s]Loading weights:  98%|█████████▊| 708/723 [00:07<00:00, 97.49it/s] Loading weights: 100%|██████████| 723/723 [00:07<00:00, 97.99it/s]
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Model loaded in 11s
+Testing 200 questions
+
+--- Progress: 0/200 ---
+  Q: Who voices Homer Simpson's character on the animated television series? 
+  Gold: Daniel Louis Castellaneta
+  KV-gold:   [X] Dan Castellaneta voices Homer Simpson's character on the ani
+  KV-all10:  [X] Dan Castellaneta
+  Pfx-gold:  [X] Dan Castellaneta
+  Pfx-all10: [X] Dan Castellaneta
+  Q: What is the name of the so-called reform opera for Vienna that came before the one first performed in Vienna in the presence of Empress Maria Theresa?
+  Gold: "Alceste"
+  KV-gold:   [X] There is no so-called reform opera for Vienna that came befo
+  KV-all10:  [X] Alceste
+  Pfx-gold:  [X] There is no reform opera mentioned that came before "Orfeo e
+  Pfx-all10: [X] There is no opera mentioned that came before "Orfeo ed Eurid
+  Q: The organization that Nicolae Titulescu served two terms as president was founded on what date?
+  Gold: 10 January 1920
+  KV-gold:   [Y] January 10, 1920
+  KV-all10:  [Y] January 10, 1920
+  Pfx-gold:  [Y] January 10, 1920
+  Pfx-all10: [Y] January 10, 1920
+
+--- Progress: 20/200 ---
+
+--- Progress: 40/200 ---
+
+--- Progress: 60/200 ---
+
+--- Progress: 80/200 ---
+
+--- Progress: 100/200 ---
+
+--- Progress: 120/200 ---
+
+--- Progress: 140/200 ---
+
+--- Progress: 160/200 ---
+
+--- Progress: 180/200 ---
+
+======================================================================
+EXP 92b RESULTS
+======================================================================
+          kv_gold: 163/200 = 81.5%  (0.68s/q)
+         kv_all10: 153/200 = 76.5%  (0.80s/q)
+      prefix_gold: 160/200 = 80.0%  (0.48s/q)
+     prefix_all10: 157/200 = 78.5%  (0.70s/q)
+
+  BRIDGE (150):
+            kv_gold: 124/150 = 82.7%
+           kv_all10: 111/150 = 74.0%
+        prefix_gold: 120/150 = 80.0%
+       prefix_all10: 117/150 = 78.0%
+
+  COMPARISON (50):
+            kv_gold: 39/50 = 78.0%
+           kv_all10: 42/50 = 84.0%
+        prefix_gold: 40/50 = 80.0%
+       prefix_all10: 40/50 = 80.0%
+
+  KV gold vs all10:
+    Both correct: 148
+    Gold only: 15 (distractors hurt)
+    All10 only: 5 (distractors helped)
+    Neither: 32
+
+Done.

@@ -1,0 +1,215 @@
+Loading meta-llama/Llama-3.1-70B-Instruct...
+Loading weights:   0%|          | 0/723 [00:00<?, ?it/s]Loading weights:   0%|          | 1/723 [00:00<01:30,  8.00it/s]Loading weights:   0%|          | 2/723 [00:00<01:41,  7.08it/s]Loading weights:   1%|          | 6/723 [00:00<00:37, 19.10it/s]Loading weights:   2%|▏         | 15/723 [00:00<00:17, 41.56it/s]Loading weights:   3%|▎         | 24/723 [00:00<00:12, 55.51it/s]Loading weights:   5%|▍         | 33/723 [00:00<00:10, 65.35it/s]Loading weights:   6%|▌         | 42/723 [00:00<00:09, 68.26it/s]Loading weights:   7%|▋         | 51/723 [00:00<00:09, 69.67it/s]Loading weights:   8%|▊         | 60/723 [00:01<00:09, 70.29it/s]Loading weights:  10%|▉         | 69/723 [00:01<00:09, 70.56it/s]Loading weights:  11%|█         | 78/723 [00:01<00:09, 70.82it/s]Loading weights:  12%|█▏        | 87/723 [00:01<00:08, 70.76it/s]Loading weights:  13%|█▎        | 96/723 [00:01<00:08, 71.13it/s]Loading weights:  15%|█▍        | 105/723 [00:01<00:08, 71.14it/s]Loading weights:  16%|█▌        | 114/723 [00:01<00:08, 72.21it/s]Loading weights:  17%|█▋        | 123/723 [00:01<00:07, 75.50it/s]Loading weights:  18%|█▊        | 132/723 [00:02<00:07, 78.67it/s]Loading weights:  20%|█▉        | 141/723 [00:02<00:07, 78.06it/s]Loading weights:  21%|██        | 150/723 [00:02<00:07, 76.39it/s]Loading weights:  22%|██▏       | 159/723 [00:02<00:07, 74.52it/s]Loading weights:  23%|██▎       | 168/723 [00:02<00:07, 73.13it/s]Loading weights:  24%|██▍       | 177/723 [00:02<00:07, 72.36it/s]Loading weights:  26%|██▌       | 186/723 [00:02<00:07, 72.05it/s]Loading weights:  27%|██▋       | 195/723 [00:02<00:07, 75.19it/s]Loading weights:  28%|██▊       | 204/723 [00:03<00:06, 77.87it/s]Loading weights:  29%|██▉       | 213/723 [00:03<00:06, 80.42it/s]Loading weights:  31%|███       | 222/723 [00:03<00:06, 77.76it/s]Loading weights:  32%|███▏      | 231/723 [00:03<00:06, 75.57it/s]Loading weights:  33%|███▎      | 240/723 [00:03<00:06, 73.14it/s]Loading weights:  34%|███▍      | 249/723 [00:03<00:06, 72.25it/s]Loading weights:  36%|███▌      | 258/723 [00:03<00:06, 72.10it/s]Loading weights:  37%|███▋      | 267/723 [00:03<00:06, 71.75it/s]Loading weights:  38%|███▊      | 276/723 [00:04<00:06, 71.13it/s]Loading weights:  39%|███▉      | 285/723 [00:04<00:06, 71.18it/s]Loading weights:  41%|████      | 294/723 [00:04<00:05, 74.88it/s]Loading weights:  42%|████▏     | 303/723 [00:04<00:05, 77.45it/s]Loading weights:  43%|████▎     | 312/723 [00:04<00:05, 80.01it/s]Loading weights:  44%|████▍     | 321/723 [00:04<00:05, 77.96it/s]Loading weights:  46%|████▌     | 330/723 [00:04<00:05, 76.02it/s]Loading weights:  47%|████▋     | 339/723 [00:04<00:05, 74.26it/s]Loading weights:  48%|████▊     | 348/723 [00:04<00:05, 73.28it/s]Loading weights:  49%|████▉     | 357/723 [00:05<00:05, 72.76it/s]Loading weights:  51%|█████     | 366/723 [00:05<00:04, 72.21it/s]Loading weights:  52%|█████▏    | 375/723 [00:05<00:04, 71.96it/s]Loading weights:  53%|█████▎    | 384/723 [00:05<00:04, 71.58it/s]Loading weights:  54%|█████▍    | 393/723 [00:05<00:04, 71.28it/s]Loading weights:  56%|█████▌    | 402/723 [00:05<00:04, 71.00it/s]Loading weights:  57%|█████▋    | 411/723 [00:05<00:04, 70.97it/s]Loading weights:  58%|█████▊    | 420/723 [00:05<00:04, 71.03it/s]Loading weights:  59%|█████▉    | 429/723 [00:06<00:04, 71.00it/s]Loading weights:  61%|██████    | 438/723 [00:06<00:04, 71.00it/s]Loading weights:  62%|██████▏   | 447/723 [00:06<00:03, 70.95it/s]Loading weights:  63%|██████▎   | 456/723 [00:06<00:03, 70.77it/s]Loading weights:  64%|██████▍   | 465/723 [00:06<00:03, 71.04it/s]Loading weights:  66%|██████▌   | 474/723 [00:06<00:03, 74.46it/s]Loading weights:  67%|██████▋   | 483/723 [00:06<00:03, 77.73it/s]Loading weights:  68%|██████▊   | 492/723 [00:06<00:02, 78.80it/s]Loading weights:  69%|██████▉   | 501/723 [00:07<00:02, 77.16it/s]Loading weights:  71%|███████   | 510/723 [00:07<00:02, 75.00it/s]Loading weights:  72%|███████▏  | 519/723 [00:07<00:02, 76.28it/s]Loading weights:  73%|███████▎  | 528/723 [00:07<00:02, 78.34it/s]Loading weights:  74%|███████▍  | 537/723 [00:07<00:02, 80.99it/s]Loading weights:  76%|███████▌  | 546/723 [00:07<00:02, 78.86it/s]Loading weights:  77%|███████▋  | 555/723 [00:07<00:02, 76.92it/s]Loading weights:  78%|███████▊  | 564/723 [00:07<00:02, 75.28it/s]Loading weights:  79%|███████▉  | 573/723 [00:07<00:02, 74.06it/s]Loading weights:  80%|████████  | 581/723 [00:08<00:02, 70.73it/s]Loading weights:  82%|████████▏ | 591/723 [00:08<00:01, 73.70it/s]Loading weights:  83%|████████▎ | 600/723 [00:08<00:01, 72.97it/s]Loading weights:  84%|████████▍ | 609/723 [00:08<00:01, 72.42it/s]Loading weights:  85%|████████▌ | 618/723 [00:08<00:01, 73.03it/s]Loading weights:  87%|████████▋ | 627/723 [00:08<00:01, 75.79it/s]Loading weights:  88%|████████▊ | 636/723 [00:08<00:01, 78.92it/s]Loading weights:  89%|████████▉ | 645/723 [00:08<00:00, 78.48it/s]Loading weights:  90%|█████████ | 654/723 [00:09<00:00, 77.09it/s]Loading weights:  92%|█████████▏| 663/723 [00:09<00:00, 75.17it/s]Loading weights:  93%|█████████▎| 672/723 [00:09<00:00, 73.87it/s]Loading weights:  94%|█████████▍| 681/723 [00:09<00:00, 72.69it/s]Loading weights:  95%|█████████▌| 690/723 [00:09<00:00, 72.22it/s]Loading weights:  97%|█████████▋| 699/723 [00:09<00:00, 75.46it/s]Loading weights:  98%|█████████▊| 708/723 [00:09<00:00, 78.19it/s]Loading weights:  99%|█████████▉| 717/723 [00:09<00:00, 80.34it/s]Loading weights: 100%|██████████| 723/723 [00:09<00:00, 73.00it/s]
+Model loaded in 13s
+Loading BGE-large...
+Loading weights:   0%|          | 0/391 [00:00<?, ?it/s]Loading weights: 100%|██████████| 391/391 [00:00<00:00, 14833.60it/s]
+[1mBertModel LOAD REPORT[0m from: BAAI/bge-large-en-v1.5
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+[3mNotes:
+- UNEXPECTED[3m	:can be ignored when loading from different task/architecture; not ok if you expect identical arch.[0m
+Loading HotpotQA...
+Loaded 7405 questions
+Bridge questions: 5918, Comparison: 1487
+
+Testing 500 questions (375 bridge, 125 comparison)
+
+--- Progress: 0/500 ---
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+
+  Q: What city does the company that owns Bumble and bumble have its headquarters in?
+  Gold: New York City
+  KV:      ✓ New York City
+  RAG-1:   ✓ New York City
+  RAG-2:   ✓ New York City
+  Prefix:  ✓ New York City
+  Base:    ✓ Estee Lauder Companies, the parent company of Bumble and bumble, has its headqua
+
+  Q: During which period the sedan variant of the Volvo V50 car was manufactured?
+  Gold: 1995 to 2012
+  KV:      ✓ The sedan variant of the Volvo V50 car is known as the Volvo S40, which was manu
+  RAG-1:   ✗ The information provided does not specify the manufacturing period of the sedan 
+  RAG-2:   ✗ The information is not provided in the given context.
+  Prefix:  ✓ The sedan variant of the Volvo V50, known as the Volvo S40, was manufactured fro
+  Base:    ✗ The Volvo V50 was manufactured from 2004 to 2012.
+
+  Q: Cherie Currie and Steve Augeri were both what?
+  Gold: American musician
+  KV:      ✗ Cherie Currie and Steve Augeri were both rock singers.
+  RAG-1:   ✗ Rock singers
+  RAG-2:   ✗ Rock singers.
+  Prefix:  ✗ Rock singers.
+  Base:    ✗ Lead vocalists.
+
+  Q: Into Dust is a song by the alternative rock band formed in which city?
+  Gold: Santa Monica, California
+  KV:      ✓ Santa Monica, California
+  RAG-1:   ✓ The context doesn't explicitly mention the city where the band was formed, but M
+  RAG-2:   ✗ Into Dust is not a song by The Replacements. It is a song by Mazzy Star, but the
+  Prefix:  ✓ Santa Monica, California.
+  Base:    ✓ Mazzy Star, the alternative rock band that sings "Into Dust", was formed in Sant
+
+  Q: When was the host of "British Academy Television Awards 2009" born? 
+  Gold: 4 April 1963
+  KV:      ✓ Graham Norton, the host of the 2009 British Academy Television Awards, was born 
+  RAG-1:   ✗ The information about Graham Norton's birthdate is not provided in the given con
+  RAG-2:   ✗ The information about Graham Norton's birthdate is not provided in the given con
+  Prefix:  ✓ 4 April 1963
+  Base:    ✗ Graham Norton, the host of the "British Academy Television Awards 2009", was bor
+
+--- Progress: 20/500 ---
+
+--- Progress: 40/500 ---
+
+  Q: Who was Chamberlain and Colonel of the military staff of The Merrie Monarch?
+  Gold: Colonel Charles Hastings Judd
+  KV:      ✓ Colonel Charles Hastings Judd was the Chamberlain and Colonel of the military st
+  RAG-1:   ✓ Charles Hastings Judd
+  RAG-2:   ✓ Charles Hastings Judd and George W. Macfarlane both served as Chamberlain and Co
+  Prefix:  ✓ Colonel Charles Hastings Judd.
+  Base:    ✗ I do not have information on a Chamberlain and Colonel of the military staff of 
+
+--- Progress: 60/500 ---
+
+--- Progress: 80/500 ---
+
+--- Progress: 100/500 ---
+
+  Q: What is the relation between current manager of Chinese club Tianjin Quanjian and Paolo Cannavaro?
+  Gold: brother
+  KV:      ✓ Fabio Cannavaro, the current manager of Chinese club Tianjin Quanjian, is Paolo 
+  RAG-1:   ✓ The text does not mention Paolo Cannavaro, but based on general knowledge, Paolo
+  RAG-2:   ✓ Fabio Cannavaro, the current manager of Chinese club Tianjin Quanjian, is Paolo 
+  Prefix:  ✓ The current manager of Chinese club Tianjin Quanjian, Fabio Cannavaro, is Paolo 
+  Base:    ✓ The current manager of Chinese club Tianjin Quanjian is Paolo Cannavaro's brothe
+
+--- Progress: 120/500 ---
+
+--- Progress: 140/500 ---
+
+  Q: Who developed the jet fighters operated by the 41st Tactical Squadron of the Polish Air Force?
+  Gold: the Mikoyan design bureau
+  KV:      ✓ The Mikoyan design bureau developed the Mikoyan MiG-29 jet fighters operated by 
+  RAG-1:   ✗ Mikoyan
+  RAG-2:   ✗ Mikoyan
+  Prefix:  ✓ The Mikoyan design bureau developed the Mikoyan MiG-29 jet fighters operated by 
+  Base:    ✗ The 41st Tactical Squadron of the Polish Air Force operates F-16C/D Block 52+ je
+
+--- Progress: 160/500 ---
+
+--- Progress: 180/500 ---
+
+--- Progress: 200/500 ---
+
+  Q: In what movie did the male star of a movie about a widowed 37-year-old woman also star in in the year 1993?
+  Gold: "Red Rock West"
+  KV:      ✓ The male star, Nicolas Cage, starred in the movie "Red Rock West" in 1993.
+  RAG-1:   ✗ Nicolas Cage starred in the movie 'Deadfall' in 1993
+  RAG-2:   ✗ Red Rock West
+  Prefix:  ✗ Red Rock West.
+  Base:    ✗ I'm not given enough information to answer this question.
+
+--- Progress: 220/500 ---
+
+--- Progress: 240/500 ---
+
+  Q: What city is the women's Vans Triple Crown of Surfing event hosted at?
+  Gold: City and County of Honolulu
+  KV:      ✗ The women's Vans Triple Crown of Surfing events are hosted at Haleiwa, Sunset Be
+  RAG-1:   ✗ The women's Vans Triple Crown of Surfing events are hosted at Haleiwa Ali'i Beac
+  RAG-2:   ✗ The women's Vans Triple Crown of Surfing events are hosted at Haleiwa Ali'i Beac
+  Prefix:  ✓ The women's Vans Triple Crown of Surfing event is hosted at Haleiwa, but more sp
+  Base:    ✗ The women's Vans Triple Crown of Surfing event is hosted at various beaches on t
+
+--- Progress: 260/500 ---
+
+--- Progress: 280/500 ---
+
+--- Progress: 300/500 ---
+
+  Q: Between two scientists Ernst Messerschmid and Philippe Perrin, who is older?
+  Gold: Ernst Willi Messerschmid
+  KV:      ✓ Ernst Messerschmid is older.
+  RAG-1:   ✓ Ernst Messerschmid (born May 21, 1945)
+  RAG-2:   ✓ Ernst Messerschmid is older.
+  Prefix:  ✓ Ernst Messerschmid is older.
+  Base:    ✓ Ernst Messerschmid was born on May 21, 1945, and Philippe Perrin was born on Jan
+
+--- Progress: 320/500 ---
+
+--- Progress: 340/500 ---
+
+  Q: What country of origin does  Dana Ivey and Two Weeks Notice have in common?
+  Gold: American
+  KV:      ✗ The United States
+  RAG-1:   ✗ The United States
+  RAG-2:   ✗ The United States.
+  Prefix:  ✗ The United States.
+  Base:    ✗ The United States
+
+--- Progress: 360/500 ---
+
+--- Progress: 380/500 ---
+
+--- Progress: 400/500 ---
+
+  Q: Did Minersville School District v. Gobitis and Gravel v. United States occur in the same decade?
+  Gold: no
+  KV:      ✓ Yes, Minersville School District v. Gobitis (1940) and Gravel v. United States (
+  RAG-1:   ✓ No information is provided about Gravel v. United States in the given context.
+  RAG-2:   ✓ No, they did not.
+  Prefix:  ✓ No, they did not.
+  Base:    ✗ Yes, they did.
+
+--- Progress: 420/500 ---
+
+--- Progress: 440/500 ---
+
+  Q: After Russell D. Moore served at the Southern Baptist Theological Seminary he became the President of The Ethics & Religious Liberty Commission (ERLC) in what year?
+  Gold: 2013
+  KV:      ✓ 2013
+  RAG-1:   ✓ 2013
+  RAG-2:   ✓ 2013
+  Prefix:  ✓ 2013
+  Base:    ✓ 2013
+
+--- Progress: 460/500 ---
+
+--- Progress: 480/500 ---
+
+======================================================================
+HOTPOTQA BENCHMARK RESULTS — meta-llama/Llama-3.1-70B-Instruct
+N=500 questions (bridge + comparison)
+======================================================================
+          kv_gold: 423/500 = 84.6%  (avg 0.67s/query)
+         rag1_all: 319/500 = 63.8%  (avg 0.67s/query)
+         rag2_all: 363/500 = 72.6%  (avg 0.60s/query)
+      prefix_gold: 415/500 = 83.0%  (avg 0.44s/query)
+         baseline: 272/500 = 54.4%  (avg 0.76s/query)
+
+--- By question type ---
+
+  BRIDGE (375 questions):
+            kv_gold: 311/375 = 82.9%
+           rag1_all: 223/375 = 59.5%
+           rag2_all: 259/375 = 69.1%
+        prefix_gold: 307/375 = 81.9%
+           baseline: 170/375 = 45.3%
+
+  COMPARISON (125 questions):
+            kv_gold: 112/125 = 89.6%
+           rag1_all: 96/125 = 76.8%
+           rag2_all: 104/125 = 83.2%
+        prefix_gold: 108/125 = 86.4%
+           baseline: 102/125 = 81.6%
+
+--- Prompt tokens ---
+  KV (gold):     0 prompt tokens (facts in KV cache)
+  RAG-1:         ~100-200 tokens (1 paragraph in prompt)
+  RAG-2:         ~200-400 tokens (2 paragraphs in prompt)
+  Prefix (gold): ~200-400 tokens (gold paragraphs in prompt)
+
+Done.

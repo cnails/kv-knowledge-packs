@@ -1,0 +1,139 @@
+Loading meta-llama/Llama-3.1-70B-Instruct...
+Fetching 30 files:   0%|          | 0/30 [00:00<?, ?it/s]Fetching 30 files:   3%|▎         | 1/30 [00:48<23:24, 48.42s/it]Fetching 30 files:  10%|█         | 3/30 [01:08<09:00, 20.02s/it]Fetching 30 files:  30%|███       | 9/30 [01:29<02:35,  7.41s/it]Fetching 30 files:  33%|███▎      | 10/30 [01:31<02:13,  6.68s/it]Fetching 30 files:  40%|████      | 12/30 [01:33<01:29,  4.95s/it]Fetching 30 files:  43%|████▎     | 13/30 [01:57<02:21,  8.31s/it]Fetching 30 files:  53%|█████▎    | 16/30 [01:59<01:09,  4.95s/it]Fetching 30 files:  57%|█████▋    | 17/30 [02:16<01:32,  7.11s/it]Fetching 30 files:  60%|██████    | 18/30 [02:17<01:11,  5.93s/it]Fetching 30 files:  63%|██████▎   | 19/30 [02:18<00:52,  4.78s/it]Fetching 30 files:  73%|███████▎  | 22/30 [02:26<00:30,  3.79s/it]Fetching 30 files:  77%|███████▋  | 23/30 [02:44<00:44,  6.29s/it]Fetching 30 files:  80%|████████  | 24/30 [03:09<01:02, 10.44s/it]Fetching 30 files:  83%|████████▎ | 25/30 [03:23<00:55, 11.05s/it]Fetching 30 files: 100%|██████████| 30/30 [03:23<00:00,  6.77s/it]
+Loading weights:   0%|          | 0/723 [00:00<?, ?it/s]Loading weights:   0%|          | 2/723 [00:00<01:10, 10.24it/s]Loading weights:   2%|▏         | 13/723 [00:00<00:14, 49.13it/s]Loading weights:   3%|▎         | 23/723 [00:00<00:10, 65.98it/s]Loading weights:   5%|▍         | 36/723 [00:00<00:07, 86.01it/s]Loading weights:   7%|▋         | 49/723 [00:00<00:07, 92.90it/s]Loading weights:   8%|▊         | 59/723 [00:00<00:07, 88.98it/s]Loading weights:  10%|▉         | 69/723 [00:00<00:07, 86.98it/s]Loading weights:  11%|█         | 81/723 [00:00<00:06, 95.28it/s]Loading weights:  13%|█▎        | 91/723 [00:01<00:06, 95.72it/s]Loading weights:  14%|█▍        | 103/723 [00:01<00:06, 96.69it/s]Loading weights:  16%|█▌        | 113/723 [00:01<00:06, 93.14it/s]Loading weights:  17%|█▋        | 123/723 [00:01<00:06, 93.29it/s]Loading weights:  19%|█▉        | 139/723 [00:01<00:05, 106.94it/s]Loading weights:  21%|██        | 150/723 [00:01<00:05, 97.19it/s] Loading weights:  22%|██▏       | 162/723 [00:01<00:05, 102.48it/s]Loading weights:  24%|██▍       | 173/723 [00:01<00:05, 103.44it/s]Loading weights:  25%|██▌       | 184/723 [00:02<00:05, 99.55it/s] Loading weights:  27%|██▋       | 195/723 [00:02<00:05, 94.08it/s]Loading weights:  29%|██▉       | 211/723 [00:02<00:04, 107.28it/s]Loading weights:  31%|███       | 222/723 [00:02<00:05, 98.57it/s] Loading weights:  32%|███▏      | 234/723 [00:02<00:04, 102.72it/s]Loading weights:  34%|███▍      | 245/723 [00:02<00:04, 103.67it/s]Loading weights:  35%|███▌      | 256/723 [00:02<00:04, 99.67it/s] Loading weights:  37%|███▋      | 267/723 [00:02<00:05, 90.84it/s]Loading weights:  39%|███▊      | 279/723 [00:02<00:04, 97.66it/s]Loading weights:  40%|████      | 290/723 [00:03<00:04, 100.00it/s]Loading weights:  42%|████▏     | 301/723 [00:03<00:04, 102.14it/s]Loading weights:  43%|████▎     | 312/723 [00:03<00:04, 98.47it/s] Loading weights:  45%|████▍     | 325/723 [00:03<00:03, 105.66it/s]Loading weights:  47%|████▋     | 337/723 [00:03<00:03, 103.49it/s]Loading weights:  48%|████▊     | 348/723 [00:03<00:04, 93.73it/s] Loading weights:  50%|████▉     | 360/723 [00:03<00:03, 99.82it/s]Loading weights:  51%|█████▏    | 371/723 [00:03<00:03, 101.96it/s]Loading weights:  53%|█████▎    | 382/723 [00:04<00:03, 98.87it/s] Loading weights:  54%|█████▍    | 393/723 [00:04<00:03, 90.56it/s]Loading weights:  56%|█████▌    | 405/723 [00:04<00:03, 95.72it/s]Loading weights:  58%|█████▊    | 418/723 [00:04<00:03, 99.40it/s]Loading weights:  59%|█████▉    | 429/723 [00:04<00:03, 91.41it/s]Loading weights:  61%|██████    | 441/723 [00:04<00:02, 98.21it/s]Loading weights:  63%|██████▎   | 452/723 [00:04<00:02, 101.03it/s]Loading weights:  64%|██████▍   | 463/723 [00:04<00:02, 98.15it/s] Loading weights:  65%|██████▌   | 473/723 [00:04<00:02, 96.13it/s]Loading weights:  67%|██████▋   | 486/723 [00:05<00:02, 104.00it/s]Loading weights:  69%|██████▉   | 499/723 [00:05<00:02, 107.09it/s]Loading weights:  71%|███████   | 510/723 [00:05<00:02, 96.11it/s] Loading weights:  72%|███████▏  | 524/723 [00:05<00:01, 107.33it/s]Loading weights:  74%|███████▍  | 536/723 [00:05<00:01, 105.62it/s]Loading weights:  76%|███████▌  | 547/723 [00:05<00:01, 103.64it/s]Loading weights:  77%|███████▋  | 559/723 [00:05<00:01, 105.92it/s]Loading weights:  79%|███████▉  | 571/723 [00:05<00:01, 104.35it/s]Loading weights:  80%|████████  | 582/723 [00:06<00:01, 94.46it/s] Loading weights:  82%|████████▏ | 594/723 [00:06<00:01, 100.58it/s]Loading weights:  84%|████████▎ | 605/723 [00:06<00:01, 102.30it/s]Loading weights:  85%|████████▌ | 616/723 [00:06<00:01, 100.04it/s]Loading weights:  87%|████████▋ | 627/723 [00:06<00:01, 94.68it/s] Loading weights:  89%|████████▉ | 643/723 [00:06<00:00, 107.61it/s]Loading weights:  90%|█████████ | 654/723 [00:06<00:00, 98.50it/s] Loading weights:  92%|█████████▏| 666/723 [00:06<00:00, 103.67it/s]Loading weights:  94%|█████████▎| 677/723 [00:06<00:00, 104.80it/s]Loading weights:  95%|█████████▌| 688/723 [00:07<00:00, 100.72it/s]Loading weights:  97%|█████████▋| 699/723 [00:07<00:00, 94.71it/s] Loading weights:  99%|█████████▉| 715/723 [00:07<00:00, 108.34it/s]Loading weights: 100%|██████████| 723/723 [00:07<00:00, 98.27it/s] 
+Model loaded in 215s
+Loading BGE-large...
+Loading weights:   0%|          | 0/391 [00:00<?, ?it/s]Loading weights: 100%|██████████| 391/391 [00:00<00:00, 15743.39it/s]
+[1mBertModel LOAD REPORT[0m from: BAAI/bge-large-en-v1.5
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+[3mNotes:
+- UNEXPECTED[3m	:can be ignored when loading from different task/architecture; not ok if you expect identical arch.[0m
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Loading HotpotQA...
+Downloading HotpotQA dev set...
+Loaded 7405 questions
+Bridge questions: 5918, Comparison: 1487
+
+Testing 200 questions (150 bridge, 50 comparison)
+
+--- Progress: 0/200 ---
+
+  Q: Who voices Homer Simpson's character on the animated television series? 
+  Gold: Daniel Louis Castellaneta
+  KV:      ✗ Dan Castellaneta voices Homer Simpson's character on the animated television ser
+  RAG-1:   ✗ Dan Castellaneta
+  RAG-2:   ✗ Dan Castellaneta
+  Prefix:  ✗ Dan Castellaneta
+  Base:    ✗ Dan Castellaneta voices Homer Simpson.
+
+  Q: What is the name of the so-called reform opera for Vienna that came before the one first performed in Vienna in the presence of Empress Maria Theresa?
+  Gold: "Alceste"
+  KV:      ✗ There is no so-called reform opera for Vienna that came before "Orfeo ed Euridic
+  RAG-1:   ✗ There is no mention of a "reform opera" before "Orfeo ed Euridice" in the provid
+  RAG-2:   ✗ There is no mention of a "reform opera" before "Orfeo ed Euridice" in the provid
+  Prefix:  ✗ There is no reform opera mentioned that came before "Orfeo ed Euridice". "Orfeo 
+  Base:    ✗ Orfeo ed Euridice
+
+  Q: The organization that Nicolae Titulescu served two terms as president was founded on what date?
+  Gold: 10 January 1920
+  KV:      ✓ January 10, 1920
+  RAG-1:   ✓ The League of Nations was founded on January 10, 1920
+  RAG-2:   ✓ The League of Nations was founded on January 10, 1920
+  Prefix:  ✓ January 10, 1920
+  Base:    ✓ The General Assembly of the League of Nations, which Nicolae Titulescu served tw
+
+  Q: What country of origin does  Dana Ivey and Two Weeks Notice have in common?
+  Gold: American
+  KV:      ✗ The United States
+  RAG-1:   ✗ The United States
+  RAG-2:   ✗ The United States.
+  Prefix:  ✗ The United States.
+  Base:    ✗ The United States
+
+  Q: In addition to the best known comic servant from Commedia dell'arte, who else is featured in La Surprise de l'amour?
+  Gold: Columbine
+  KV:      ✓ Columbine is also featured in La Surprise de l'amour.
+  RAG-1:   ✓ Columbine.
+  RAG-2:   ✓ Columbine.
+  Prefix:  ✓ Columbine.
+  Base:    ✗ Arlequin is the best known comic servant from Commedia dell'arte. In addition to
+
+--- Progress: 20/200 ---
+
+--- Progress: 40/200 ---
+
+  Q: Which band has more constant members, Lilys or Ratatat?
+  Gold: Ratatat
+  KV:      ✓ Ratatat has more constant members, with Mike Stroud and Evan Mast being the cons
+  RAG-1:   ✓ Ratatat, as it has 2 constant members, whereas information about Lilys is not pr
+  RAG-2:   ✓ Ratatat.
+  Prefix:  ✓ Ratatat.
+  Base:    ✓ Lilys has had more constant change in its members, with Kurt Heasley being the p
+
+--- Progress: 60/200 ---
+
+--- Progress: 80/200 ---
+
+--- Progress: 100/200 ---
+
+  Q: how many films has the director of "Girl 6" produced since 1983?
+  Gold: over 35 films
+  KV:      ✓ Spike Lee's production company, 40 Acres and a Mule Filmworks, has produced over
+  RAG-1:   ✗ The question doesn't provide information about the number of films the director 
+  RAG-2:   ✓ Over 35 films.
+  Prefix:  ✓ Spike Lee's production company has produced over 35 films since 1983.
+  Base:    ✗ Spike Lee, the director of "Girl 6," has produced numerous films since 1983. How
+
+--- Progress: 120/200 ---
+
+--- Progress: 140/200 ---
+
+  Q: How many seasons has a popular tv show had, in which one of the episodes is called Moho House?
+  Gold: 28
+  KV:      ✗ The Simpsons has had over 30 seasons, and one of the episodes is called "Moho Ho
+  RAG-1:   ✓ 28
+  RAG-2:   ✓ At least 28 seasons.
+  Prefix:  ✓ At least 28 seasons.
+  Base:    ✗ I'm not aware of a specific TV show with an episode called "Moho House." Can you
+
+--- Progress: 160/200 ---
+
+--- Progress: 180/200 ---
+
+======================================================================
+HOTPOTQA BENCHMARK RESULTS — meta-llama/Llama-3.1-70B-Instruct
+N=200 questions (bridge + comparison)
+======================================================================
+          kv_gold: 163/200 = 81.5%  (avg 0.68s/query)
+         rag1_all: 133/200 = 66.5%  (avg 0.68s/query)
+         rag2_all: 143/200 = 71.5%  (avg 0.61s/query)
+      prefix_gold: 160/200 = 80.0%  (avg 0.48s/query)
+         baseline: 107/200 = 53.5%  (avg 0.77s/query)
+
+--- By question type ---
+
+  BRIDGE (150 questions):
+            kv_gold: 124/150 = 82.7%
+           rag1_all: 93/150 = 62.0%
+           rag2_all: 104/150 = 69.3%
+        prefix_gold: 120/150 = 80.0%
+           baseline: 67/150 = 44.7%
+
+  COMPARISON (50 questions):
+            kv_gold: 39/50 = 78.0%
+           rag1_all: 40/50 = 80.0%
+           rag2_all: 39/50 = 78.0%
+        prefix_gold: 40/50 = 80.0%
+           baseline: 40/50 = 80.0%
+
+--- Prompt tokens ---
+  KV (gold):     0 prompt tokens (facts in KV cache)
+  RAG-1:         ~100-200 tokens (1 paragraph in prompt)
+  RAG-2:         ~200-400 tokens (2 paragraphs in prompt)
+  Prefix (gold): ~200-400 tokens (gold paragraphs in prompt)
+
+Done.
